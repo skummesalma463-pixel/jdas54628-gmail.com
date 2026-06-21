@@ -101,6 +101,12 @@ My experience includes developing scalable web applications, RESTful APIs, and i
 * Enhanced reporting efficiency and user experience through workflow optimization.
 
 ---
+<p align="center">
+  <a href="https://leetcode.com/u/rahuldass_18/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=r4hulx&style=for-the-badge" />
+</p>
 
 ## Coding Profiles
 
