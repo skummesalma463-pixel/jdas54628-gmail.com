@@ -1,160 +1,163 @@
-<h1 align="center">Hi, I am Rahul Das</h1>
+<h1 align="center">Rahul Das</h1>
 
 <h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Computer Science Undergraduate</h3>
 
 <p align="center">
-  <a href="https://github.com/r4hulx">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-das-230967302/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/u/rahuldass_18/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
+  <a href="https://github.com/r4hulx">GitHub</a> •
+  <a href="https://www.linkedin.com/in/rahul-das-230967302/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/rahuldass_18/">LeetCode</a>
 </p>
 
 ---
 
 ## About Me
 
-I am Rahul Das, a B.Tech Computer Science and Engineering student at Vignan's Foundation for Science, Technology and Research.
+I am a Computer Science undergraduate at Vignan's Foundation for Science, Technology and Research with a strong interest in Full Stack Development, Machine Learning, and Artificial Intelligence.
 
-* Focused on Full Stack Web Development and Machine Learning
-* Skilled in Python, React.js, Node.js, Flask, MongoDB, and REST APIs
-* Interested in Artificial Intelligence, NLP, and Data-Driven Applications
-* Strong foundation in Data Structures, Algorithms, DBMS, and Computer Networks
-* Passionate about building scalable and impactful software solutions
-* Open to internships and software development opportunities
+My experience includes developing scalable web applications, RESTful APIs, and intelligent systems using modern technologies. I enjoy solving complex problems, building impactful software solutions, and continuously expanding my technical expertise.
 
-"Building intelligent solutions through code and innovation."
+### Areas of Interest
+
+* Full Stack Web Development
+* Machine Learning & Artificial Intelligence
+* Backend Engineering
+* Data Structures & Algorithms
+* Natural Language Processing
+* Software Design & Development
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,mysql" />
-</p>
+* Python
+* C
+* C++
+* JavaScript
+* SQL
+* HTML5
+* CSS3
 
 ### Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind,mongodb" />
-</p>
+* React.js
+* Node.js
+* Express.js
+* Flask
+* Tailwind CSS
+* Scikit-Learn
+* Streamlit
 
-### Tools
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+* MongoDB
+* SQLite
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Cloudinary
+
+### Core Concepts
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Computer Networks
+* Machine Learning
+* RESTful APIs
+* JWT Authentication
 
 ---
 
-## Projects
+## Featured Projects
 
 ### Soil Analysis and Crop Recommendation System
 
-Python | Machine Learning | Random Forest
+**Tech Stack:** Python, Machine Learning, Random Forest
 
-* Developed a crop recommendation system using Machine Learning
-* Trained and evaluated on 2200+ agricultural records
-* Achieved 99.32% prediction accuracy
+* Developed a machine learning-based crop recommendation system.
+* Trained and evaluated the model using 2200+ agricultural records.
+* Achieved 99.32% prediction accuracy through optimized model training.
 
 ### EduCampus: AI-Powered Campus Concierge
 
-Python | Dialogflow | Flask | SQLite | NLP
+**Tech Stack:** Python, Dialogflow, Flask, SQLite, NLP
 
-* Built an AI-powered campus assistant chatbot
-* Improved intent recognition using NLP techniques
-* Automated query handling and backend services
+* Designed and developed an intelligent campus assistant chatbot.
+* Improved query handling and response accuracy using NLP techniques.
+* Automated backend workflows and database operations.
 
 ### Sweeply: Smart Garbage Reporting System
 
-React.js | Node.js | MongoDB | Cloudinary
+**Tech Stack:** React.js, Node.js, MongoDB, Cloudinary
 
-* Developed a civic issue reporting platform
-* Integrated geolocation and image management
-* Improved reporting efficiency and user experience
+* Built a full-stack civic issue reporting platform.
+* Integrated geolocation and cloud-based image management.
+* Enhanced reporting efficiency and user experience through workflow optimization.
 
 ---
 
 ## Coding Profiles
 
-<p align="left">
-<a href="https://leetcode.com/u/rahuldass_18/">
-<img src="https://img.shields.io/badge/LeetCode-View_Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
+<p align="center">
+  <a href="https://leetcode.com/u/rahuldass_18/">
+    <img src="https://leetcard.jacoblin.cool/rahuldass_18?theme=light&font=Karma" />
+  </a>
 </p>
-
-### LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/rahuldass_18?theme=light\&font=Karma)
-
-### LeetCode Streak
-
-![LeetCode Streak](https://leetcode-streak-stats.vercel.app/?user=rahuldass_18)
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r4hulx&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r4hulx&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r4hulx" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r4hulx&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4hulx&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4hulx&layout=compact&hide_border=true" />
 </p>
 
 ---
 
 ## Certifications
 
-* NPTEL Network Security Certification
-* NPTEL Elite Certification in Public Speaking
-* MERN Full Stack Development Certification
+* Network Security – NPTEL
+* Public Speaking (Elite) – NPTEL
+* MERN Full Stack Development
 * HacXLerate National Hackathon Participant
 
 ---
 
-## Achievements
+## Professional Goals
 
-* Built multiple Full Stack and Machine Learning Projects
-* Achieved 99.32% accuracy in Crop Recommendation System
-* Participant in National Level Hackathons
-* Strong problem-solving and software development skills
+I am actively seeking opportunities to contribute to innovative projects and gain industry experience in:
 
----
-
-## Open To Work
-
-Currently looking for:
-
-* Software Development Internships
-* Full Stack Developer Roles
-* Python Developer Opportunities
-* Machine Learning Projects
-* Backend Development Opportunities
+* Software Development
+* Full Stack Engineering
+* Backend Development
+* Machine Learning Engineering
+* AI-Powered Applications
 
 ---
 
-## Connect With Me
+## Contact
 
-* LinkedIn: https://www.linkedin.com/in/rahul-das-230967302/
-* GitHub: https://github.com/r4hulx
-* LeetCode: https://leetcode.com/u/rahuldass_18/
+* Email: [231fa04972das@gmail.com](mailto:231fa04972das@gmail.com)
+* LinkedIn: linkedin.com/in/rahul-das-230967302
+* GitHub: github.com/r4hulx
+* LeetCode: leetcode.com/u/rahuldass_18
 
 ---
 
-### Developer Mindset
+### Quote
 
-"Consistency, Learning, and Innovation drive success."
-
-If you find my projects interesting, feel free to connect and collaborate.
+*"Continuous learning, disciplined execution, and innovation are the foundations of impactful software development."*
