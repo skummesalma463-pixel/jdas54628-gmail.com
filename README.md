@@ -3,33 +3,47 @@
 <h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Computer Science Undergraduate</h3>
 
 <p align="center">
-  <a href="https://github.com/r4hulx">GitHub</a> •
-  <a href="https://www.linkedin.com/in/rahul-das-230967302/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/rahuldass_18/">LeetCode</a>
+  <a href="https://github.com/r4hulx">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rahul-das-230967302/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/rahuldass_18/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=r4hulx&style=for-the-badge"/>
 </p>
 
 ---
 
 ## About Me
 
-I am a Computer Science undergraduate at Vignan's Foundation for Science, Technology and Research with a strong interest in Full Stack Development, Machine Learning, and Artificial Intelligence.
+I am a Computer Science undergraduate at Vignan's Foundation for Science, Technology and Research with a strong interest in Full Stack Development, Machine Learning, Artificial Intelligence, and Backend Engineering.
 
-My experience includes developing scalable web applications, RESTful APIs, and intelligent systems using modern technologies. I enjoy solving complex problems, building impactful software solutions, and continuously expanding my technical expertise.
+I enjoy building scalable web applications, developing intelligent systems, and solving real-world problems through technology. My focus is on creating impactful software solutions while continuously improving my technical expertise.
 
-### Areas of Interest
+---
+
+## Areas of Interest
 
 * Full Stack Web Development
 * Machine Learning & Artificial Intelligence
-* Backend Engineering
+* Backend Development
 * Data Structures & Algorithms
 * Natural Language Processing
-* Software Design & Development
+* Software Engineering
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
+### Languages
 
 * Python
 * C
@@ -54,7 +68,7 @@ My experience includes developing scalable web applications, RESTful APIs, and i
 * MongoDB
 * SQLite
 
-### Tools & Platforms
+### Tools
 
 * Git
 * GitHub
@@ -69,7 +83,7 @@ My experience includes developing scalable web applications, RESTful APIs, and i
 * DBMS
 * Computer Networks
 * Machine Learning
-* RESTful APIs
+* REST APIs
 * JWT Authentication
 
 ---
@@ -80,40 +94,38 @@ My experience includes developing scalable web applications, RESTful APIs, and i
 
 **Tech Stack:** Python, Machine Learning, Random Forest
 
-* Developed a machine learning-based crop recommendation system.
+* Developed a Machine Learning-based crop recommendation system.
 * Trained and evaluated the model using 2200+ agricultural records.
-* Achieved 99.32% prediction accuracy through optimized model training.
+* Achieved 99.32% prediction accuracy.
 
 ### EduCampus: AI-Powered Campus Concierge
 
 **Tech Stack:** Python, Dialogflow, Flask, SQLite, NLP
 
-* Designed and developed an intelligent campus assistant chatbot.
-* Improved query handling and response accuracy using NLP techniques.
-* Automated backend workflows and database operations.
+* Developed an intelligent chatbot for campus assistance.
+* Applied NLP techniques for improved intent recognition.
+* Automated backend workflows and database management.
 
 ### Sweeply: Smart Garbage Reporting System
 
 **Tech Stack:** React.js, Node.js, MongoDB, Cloudinary
 
 * Built a full-stack civic issue reporting platform.
-* Integrated geolocation and cloud-based image management.
-* Enhanced reporting efficiency and user experience through workflow optimization.
+* Integrated geolocation and cloud image storage.
+* Improved reporting efficiency and user experience.
 
 ---
+
+## LeetCode Profile
+
 <p align="center">
-  <a href="https://leetcode.com/u/rahuldass_18/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=r4hulx&style=for-the-badge" />
+  <img src="https://leetcard.jacoblin.cool/rahuldass_18?theme=light&font=Karma&ext=contest" />
 </p>
 
-## Coding Profiles
+## LeetCode Streak
 
 <p align="center">
-  <a href="https://leetcode.com/u/rahuldass_18/">
-    <img src="https://leetcard.jacoblin.cool/rahuldass_18?theme=light&font=Karma" />
-  </a>
+  <img src="https://leetcode-streak-stats.vercel.app/?user=rahuldass_18" />
 </p>
 
 ---
@@ -121,23 +133,23 @@ My experience includes developing scalable web applications, RESTful APIs, and i
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r4hulx&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r4hulx&show_icons=true&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r4hulx&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=r4hulx&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4hulx&layout=compact&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4hulx&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
 ## Certifications
 
-* Network Security – NPTEL
-* Public Speaking (Elite) – NPTEL
+* NPTEL Network Security Certification
+* NPTEL Elite Certification in Public Speaking
 * MERN Full Stack Development
 * HacXLerate National Hackathon Participant
 
@@ -145,7 +157,7 @@ My experience includes developing scalable web applications, RESTful APIs, and i
 
 ## Professional Goals
 
-I am actively seeking opportunities to contribute to innovative projects and gain industry experience in:
+Currently seeking opportunities in:
 
 * Software Development
 * Full Stack Engineering
@@ -155,15 +167,24 @@ I am actively seeking opportunities to contribute to innovative projects and gai
 
 ---
 
-## Contact
+## Connect With Me
 
-* Email: [231fa04972das@gmail.com](mailto:231fa04972das@gmail.com)
-* LinkedIn: linkedin.com/in/rahul-das-230967302
-* GitHub: github.com/r4hulx
-* LeetCode: leetcode.com/u/rahuldass_18
+<p align="center">
+  <a href="mailto:231fa04972das@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rahul-das-230967302/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/r4hulx">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### Quote
-
-*"Continuous learning, disciplined execution, and innovation are the foundations of impactful software development."*
+<h3 align="center">
+"Continuous Learning • Consistent Effort • Meaningful Innovation"
+</h3>
